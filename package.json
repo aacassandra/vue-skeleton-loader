@@ -1,7 +1,7 @@
 {
   "name": "@aacassandra/vue-skeleton-loader",
-  "version": "1.0.0",
-  "description": "Parse libraries",
+  "version": "1.0.1",
+  "description": "A Simple Skeleton Loader",
   "main": "src/index.js",
   "publishConfig": {
     "access": "public"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/aacassandra/vue-skeleton-loader.git"
   },
   "keywords": [
-    "npm"
+    ""
   ],
   "author": {
     "name": "Alauddin Afif Cassandra",
